@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://script.google.com/a/macros/sellersflow.com/s/AKfycbwAxAEq7iJI6xEg4y6j1_gjdEoGataVX-vRJYBtL2l0tZ5Z2Cc3xo56M78GaHSPLK0qdg/exec",
+      "permanent": false
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://script.google.com/a/macros/sellersflow.com/s/AKfycbwAxAEq7iJI6xEg4y6j1_gjdEoGataVX-vRJYBtL2l0tZ5Z2Cc3xo56M78GaHSPLK0qdg/exec",
+      "permanent": false
+    }
+  ]
+}
